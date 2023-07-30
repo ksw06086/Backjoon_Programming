@@ -1,4 +1,4 @@
-package backjoon.problem.R20230729;
+package backjoon.problem.R20230730;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -13,31 +13,31 @@ import java.util.StringTokenizer;
 /**
  * @author swkim
  * @category 구현, 시뮬레이션
- * @updatedAt 김선우, 2023.07.29(문제풀이)
- * {@summary} Intercepting Information(신호 에러 잡기)
- * - 입력 : 첫째줄 - 8비트 순서대로 값 들어옴(9면 에러)
- * https://www.acmicpc.net/problem/26209
+ * @updatedAt 김선우, 2023.07.30(문제풀이)
+ * {@summary} Copier(숫자 복사본 같이 출력)
+ * - 입력 : 첫째줄 - 수 갯수, 둘째줄~ - 수
+ * https://www.acmicpc.net/problem/26574
  */
-public class InterceptingInfomation {
+public class Copier {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		StringTokenizer st = new StringTokenizer(br.readLine());
+		StringBuilder sb = new StringBuilder();
+		int N = Integer.parseInt(br.readLine());
 		
-		bw.write(bitTest(st) + "\n");
+		while(N-- > 0) {
+			int number = Integer.parseInt(br.readLine());
+			sb.append(number).append(" ").append(number).append("\n");
+			
+		}
+		
+		bw.write(sb + "");
 		bw.flush();
 		br.close();
 		bw.close();
 	}
 	
-	public static String bitTest(StringTokenizer st) throws Exception {
-		while(st.countTokens() > 0) {
-			if(st.nextToken().equals("9")) { return "F"; }
-		}
-		return "S";
-	}
-	
 	public static void main(String[] args) throws Exception {
-		new InterceptingInfomation().solution();
+		new Copier().solution();
 	}
 }
