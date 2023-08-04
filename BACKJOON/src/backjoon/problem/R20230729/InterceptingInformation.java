@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.29(¹®Á¦Ç®ÀÌ)
- * {@summary} Intercepting Information(½ÅÈ£ ¿¡·¯ Àâ±â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - 8ºñÆ® ¼ø¼­´ë·Î °ª µé¾î¿È(9¸é ¿¡·¯)
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.29(ë¬¸ì œí’€ì´)
+ * {@summary} Intercepting Information(ì‹ í˜¸ ì—ëŸ¬ ì¡ê¸°)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - 8ë¹„íŠ¸ ìˆœì„œëŒ€ë¡œ ê°’ ë“¤ì–´ì˜´(9ë©´ ì—ëŸ¬)
  * https://www.acmicpc.net/problem/26209
  */
 public class InterceptingInformation {

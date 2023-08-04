@@ -9,12 +9,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.18
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.18
- * ¸ñÀû : 14928¹ø - Å« ¼ö(Å« ¼ö<10^1000000>¸¦ ³ª´« ³ª¸ÓÁö ±¸ÇØ¶ó)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.18(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.18
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.18
+ * ëª©ì  : 14928ë²ˆ - í° ìˆ˜(í° ìˆ˜<10^1000000>ë¥¼ ë‚˜ëˆˆ ë‚˜ë¨¸ì§€ êµ¬í•´ë¼)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.18(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class BigNumberMod {
 	private void solution() throws Exception {
@@ -25,11 +25,11 @@ public class BigNumberMod {
 		BigInteger birth = new BigInteger("20000303");		
 		System.out.println(N.remain(birth));*/
 		
-		// ³ª¸ÓÁö ¿¬»êÀÌ À§·Î ÇÏ¸é ¸Å¿ì ±æ¾î¼­ ½Ã°£ÃÊ°ú°¡ °É¸²
-		// ±×·¡¼­ ¹®ÀÚ¿­·Î ³ª´©¾î¼­ ÇÏ´Â ¹æ½ÄÀ¸·Î ½ÇÇàÇØÁÖ¾î¾ß ½Ã°£ÃÊ°ú°¡ ¾ÈµÊ
-		// 1. remain * 10 : ÀÚ¸®¼ö ¿Ã·ÁÁÜ
-		// 2. '0'À» »« ÀÌÀ¯ : charAtÀ» ¾²¸é ¹®ÀÚ¿­ÀÌ Ãâ·ÂµÇ´Ï ¹®ÀÚ¿­ '0'À» »©¼­ ¼ýÀÚ·Î ¸¸µé¾îÁÜ
-		//                  '1'Àº 49, '0'Àº 48ÀÓ
+		// ë‚˜ë¨¸ì§€ ì—°ì‚°ì´ ìœ„ë¡œ í•˜ë©´ ë§¤ìš° ê¸¸ì–´ì„œ ì‹œê°„ì´ˆê³¼ê°€ ê±¸ë¦¼
+		// ê·¸ëž˜ì„œ ë¬¸ìžì—´ë¡œ ë‚˜ëˆ„ì–´ì„œ í•˜ëŠ” ë°©ì‹ìœ¼ë¡œ ì‹¤í–‰í•´ì£¼ì–´ì•¼ ì‹œê°„ì´ˆê³¼ê°€ ì•ˆë¨
+		// 1. remain * 10 : ìžë¦¬ìˆ˜ ì˜¬ë ¤ì¤Œ
+		// 2. '0'ì„ ëº€ ì´ìœ  : charAtì„ ì“°ë©´ ë¬¸ìžì—´ì´ ì¶œë ¥ë˜ë‹ˆ ë¬¸ìžì—´ '0'ì„ ë¹¼ì„œ ìˆ«ìžë¡œ ë§Œë“¤ì–´ì¤Œ
+		//                  '1'ì€ 49, '0'ì€ 48ìž„
 		String N = br.readLine();
 		long remain = 0;
 		for(int i = 0; i < N.length(); i++) {

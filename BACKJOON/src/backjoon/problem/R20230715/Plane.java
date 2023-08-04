@@ -6,12 +6,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.15
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.15
- * ¸ñÀû : 8370¹ø - Plane(ÁÂ¼®ÀÇ ÃÑ °³¼ö)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.15(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.15
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.15
+ * ëª©ì  : 8370ë²ˆ - Plane(ì¢Œì„ì˜ ì´ ê°œìˆ˜)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.15(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class Plane {
 	private void solution() throws Exception {

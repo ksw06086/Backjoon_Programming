@@ -13,10 +13,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.27(¹®Á¦Ç®ÀÌ)
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.27(ë¬¸ì œí’€ì´)
  * {@summary} Football Scoring
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÆÀ µæÁ¡¸ñ·Ïº° ¼ıÀÚ, µÑÂ°ÁÙ - ÆÀ µæÁ¡¸ñ·Ïº° ¼ıÀÚ
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - íŒ€ ë“ì ëª©ë¡ë³„ ìˆ«ì, ë‘˜ì§¸ì¤„ - íŒ€ ë“ì ëª©ë¡ë³„ ìˆ«ì
  * https://www.acmicpc.net/problem/24736
  */
 public class FootballScoring {

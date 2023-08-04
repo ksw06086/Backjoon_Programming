@@ -7,12 +7,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.18
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.18
- * ¸ñÀû : 14581¹ø - ÆÒµé¿¡°Ô µÑ·¯½ÎÀÎ È«ÁØ
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.18(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.18
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.18
+ * ëª©ì  : 14581ë²ˆ - íŒ¬ë“¤ì—ê²Œ ë‘˜ëŸ¬ì‹¸ì¸ í™ì¤€
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.18(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class FanAround {
 	private void solution() throws Exception {

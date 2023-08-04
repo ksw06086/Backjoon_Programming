@@ -5,19 +5,19 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.15
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.15
- * ¸ñÀû : 5597¹ø - °úÁ¦ ¾È ³»½Å ºĞ..?(30¸í Áß ¾È³½ 2¸í Ã£±â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.15(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.15
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.15
+ * ëª©ì  : 5597ë²ˆ - ê³¼ì œ ì•ˆ ë‚´ì‹  ë¶„..?(30ëª… ì¤‘ ì•ˆë‚¸ 2ëª… ì°¾ê¸°)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.15(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class ProblemNotSubmit {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		boolean[] arr = new boolean[31];
-		// ¿Â »ç¶÷ Ãâ¼® Ã¼Å©
+		// ì˜¨ ì‚¬ëŒ ì¶œì„ ì²´í¬
 		for(int i = 0; i < 28; i++) {
 			int n = Integer.parseInt(br.readLine());
 			arr[n] = true;

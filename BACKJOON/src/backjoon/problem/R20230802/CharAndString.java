@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ¹®ÀÚ¿­
- * @updatedAt ±è¼±¿ì, 2023.08.02(¹®Á¦Ç®ÀÌ)
- * {@summary} ¹®ÀÚ¿Í ¹®ÀÚ¿­(¹®ÀÚ¿­ÀÇ index¹øÂ° ¹®ÀÚ Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¹®ÀÚ¿­, µÑÂ°ÁÙ - index
+ * @category êµ¬í˜„, ë¬¸ìì—´
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.02(ë¬¸ì œí’€ì´)
+ * {@summary} ë¬¸ìì™€ ë¬¸ìì—´(ë¬¸ìì—´ì˜ indexë²ˆì§¸ ë¬¸ì ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë¬¸ìì—´, ë‘˜ì§¸ì¤„ - index
  * https://www.acmicpc.net/problem/27866
  */
 public class CharAndString {

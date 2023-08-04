@@ -12,13 +12,13 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.26(¹®Á¦Ç®ÀÌ)
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.26(ë¬¸ì œí’€ì´)
  * {@summary}
- * - Ã¹Â°ÁÙ : ÄÚµå1ÀÇ ¼öÇà È½¼ö Ãâ·Â
- * - µÑÂ°ÁÙ : ¾Ë°í¸®Áò ¼öÇà½Ã°£ÀÌ »ó¼ö ½Ã°£ - 0, n¿¡ ºñ·Ê - 1, n2¿¡ ºñ·Ê - 2, n3¿¡ ºñ·Ê - 3, n3º¸´Ù Å« ½Ã°£¿¡ ºñ·Ê - 4
+ * - ì²«ì§¸ì¤„ : ì½”ë“œ1ì˜ ìˆ˜í–‰ íšŸìˆ˜ ì¶œë ¥
+ * - ë‘˜ì§¸ì¤„ : ì•Œê³ ë¦¬ì¦˜ ìˆ˜í–‰ì‹œê°„ì´ ìƒìˆ˜ ì‹œê°„ - 0, nì— ë¹„ë¡€ - 1, n2ì— ë¹„ë¡€ - 2, n3ì— ë¹„ë¡€ - 3, n3ë³´ë‹¤ í° ì‹œê°„ì— ë¹„ë¡€ - 4
  * https://www.acmicpc.net/problem/24262
- * ¾Ë°í¸®Áò ¼ö¾÷ - ¾Ë°í¸®ÁòÀÇ ¼öÇà ½Ã°£ 1(¾Ë°í¸®Áò ¼öÇà ½Ã°£ Ãâ·Â)
+ * ì•Œê³ ë¦¬ì¦˜ ìˆ˜ì—… - ì•Œê³ ë¦¬ì¦˜ì˜ ìˆ˜í–‰ ì‹œê°„ 1(ì•Œê³ ë¦¬ì¦˜ ìˆ˜í–‰ ì‹œê°„ ì¶œë ¥)
  */
 public class AlgorithmStudy1 {
 	private void solution() throws Exception {

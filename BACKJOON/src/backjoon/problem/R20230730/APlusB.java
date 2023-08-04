@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.30(¹®Á¦Ç®ÀÌ)
- * {@summary} A+B(A ´õÇÏ±â B)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - A, µÑÂ°ÁÙ - B
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.30(ë¬¸ì œí’€ì´)
+ * {@summary} A+B(A ë”í•˜ê¸° B)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - A, ë‘˜ì§¸ì¤„ - B
  * https://www.acmicpc.net/problem/26711
  */
 public class APlusB {

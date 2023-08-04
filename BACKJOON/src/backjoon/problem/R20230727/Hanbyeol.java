@@ -13,9 +13,9 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.27(¹®Á¦Ç®ÀÌ)
- * {@summary} ÇÑº° Âï±â - ÇÑº°ÀÌ Ãâ·Â
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.27(ë¬¸ì œí’€ì´)
+ * {@summary} í•œë³„ ì°ê¸° - í•œë³„ì´ ì¶œë ¥
  * https://www.acmicpc.net/problem/24900
  */
 public class Hanbyeol {

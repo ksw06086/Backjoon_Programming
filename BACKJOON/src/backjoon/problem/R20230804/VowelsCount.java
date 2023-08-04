@@ -1,4 +1,4 @@
-package backjoon.problem.R20230731;
+package backjoon.problem.R20230804;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,22 +12,30 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category 구현, 시뮬레이션
- * @updatedAt 김선우, 2023.07.31(문제풀이)
- * {@summary} Po6nh30h Kpy30(무인도에서 시간 세기)
- * - 입력 : 첫째줄 - 총 시간
- * https://www.acmicpc.net/problem/27219
+ * @category ����, ���ڿ�
+ * @updatedAt �輱��, 2023.08.03(����Ǯ��)
+ * {@summary} ������ ����(a,i,u,e,o ���� ���)
+ * - �Է� : ù°��~ - ���ڿ�, �������� - #
+ * https://www.acmicpc.net/problem/1264
  */
-public class MuindoTimeCounting {
+public class VowelsCount {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		StringBuilder sb = new StringBuilder();
-		int N = Integer.parseInt(br.readLine());
 		
-		String one = "I";
-		String five = "V";
-		sb.append(five.repeat(N/5)).append(one.repeat(N%5)).append("\n");
+		while(true) {
+			String str = br.readLine().toLowerCase();
+			if(str.equals("#")) { break; }
+			int count = 0;
+			for(int i = 0; i < str.length(); i++) {
+				switch(str.charAt(i)) {
+					case 'a': case 'i': case 'u': case 'e': case 'o':
+						count++;
+				}
+			}
+			sb.append(count).append("\n");
+		}
 		
 		bw.write(sb + "");
 		bw.flush();
@@ -36,7 +44,7 @@ public class MuindoTimeCounting {
 	}
 	
 	public static void main(String[] args) throws Exception {
-		new MuindoTimeCounting().solution();
+		new VowelsCount().solution();
 	}
 	
 }

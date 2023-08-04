@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ¼öÇĞ, ±¸Çö, »çÄ¢¿¬»ê
- * @updatedAt ±è¼±¿ì, 2023.08.01(¹®Á¦Ç®ÀÌ)
- * {@summary} Two-digit Integer(AB Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - A, µÑÂ°ÁÙ - B
+ * @category ìˆ˜í•™, êµ¬í˜„, ì‚¬ì¹™ì—°ì‚°
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.01(ë¬¸ì œí’€ì´)
+ * {@summary} Two-digit Integer(AB ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - A, ë‘˜ì§¸ì¤„ - B
  * https://www.acmicpc.net/problem/27331
  */
 public class TwoDigitInteger {

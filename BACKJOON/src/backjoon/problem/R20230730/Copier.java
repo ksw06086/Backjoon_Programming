@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.30(¹®Á¦Ç®ÀÌ)
- * {@summary} Copier(¼ıÀÚ º¹»çº» °°ÀÌ Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¼ö °¹¼ö, µÑÂ°ÁÙ~ - ¼ö
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.30(ë¬¸ì œí’€ì´)
+ * {@summary} Copier(ìˆ«ì ë³µì‚¬ë³¸ ê°™ì´ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ìˆ˜ ê°¯ìˆ˜, ë‘˜ì§¸ì¤„~ - ìˆ˜
  * https://www.acmicpc.net/problem/26574
  */
 public class Copier {

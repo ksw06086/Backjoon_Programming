@@ -6,12 +6,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.16
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.16
- * ¸ñÀû : 9654¹ø - ³ªºÎ ÇÔ´ë µ¥ÀÌÅÍ(³ªºÎ ÇÔ´ë µ¥ÀÌÅÍ Ãâ·Â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.16(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.16
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.16
+ * ëª©ì  : 9654ë²ˆ - ë‚˜ë¶€ í•¨ëŒ€ ë°ì´í„°(ë‚˜ë¶€ í•¨ëŒ€ ë°ì´í„° ì¶œë ¥)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.16(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class NabuHamdaeData {
 	private void solution() throws Exception {

@@ -5,18 +5,18 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.15
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.15
- * ¸ñÀû : 5522¹ø - Ä«µå°ÔÀÓ(5ÆÇÀÇ Ä«µå°ÔÀÓ Á¡¼ö ÇÕ»ê)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.15(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.15
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.15
+ * ëª©ì  : 5522ë²ˆ - ì¹´ë“œê²Œì„(5íŒì˜ ì¹´ë“œê²Œì„ ì ìˆ˜ í•©ì‚°)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.15(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class CardGame {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		int total = 0; // ÃÑÁ¡
+		int total = 0; // ì´ì 
 		for(int i = 1; i <= 5; i++) {
 			total += Integer.parseInt(br.readLine());
 		}

@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ¼öÇÐ, ±¸Çö, »çÄ¢¿¬»ê
- * @updatedAt ±è¼±¿ì, 2023.08.02(¹®Á¦Ç®ÀÌ)
- * {@summary} Á¤º¸¼¶ÀÇ ´ëÁß±³Åë(¹ö½º°¡ ³´³Ä ÁöÇÏÃ¶ÀÌ ³´³Ä)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÁöÇÏÃ¶±îÁö °Å¸®, ¹ö½º ´ë±â½Ã°£, ÁöÇÏÃ¶ ´ë±â½Ã°£
+ * @category ìˆ˜í•™, êµ¬í˜„, ì‚¬ì¹™ì—°ì‚°
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.02(ë¬¸ì œí’€ì´)
+ * {@summary} ì •ë³´ì„¬ì˜ ëŒ€ì¤‘êµí†µ(ë²„ìŠ¤ê°€ ë‚«ëƒ ì§€í•˜ì² ì´ ë‚«ëƒ)
+ * - ìž…ë ¥ : ì²«ì§¸ì¤„ - ì§€í•˜ì² ê¹Œì§€ ê±°ë¦¬, ë²„ìŠ¤ ëŒ€ê¸°ì‹œê°„, ì§€í•˜ì²  ëŒ€ê¸°ì‹œê°„
  * https://www.acmicpc.net/problem/28113
  */
 public class PublicTransport {

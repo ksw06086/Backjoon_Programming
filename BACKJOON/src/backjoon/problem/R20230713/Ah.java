@@ -5,12 +5,12 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.13
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.13
- * ¸ñÀû : 4999¹ø - ¾Æ!(³»°¡ ³¾ ¼ö ÀÖ´Â ahÀÇ ±æÀÌ°¡ µÇ´Â ÀÇ»ç¸¦ Ã£¾Æ°¡¾ß ÇÔ)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.13(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.13
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.13
+ * ëª©ì  : 4999ë²ˆ - ì•„!(ë‚´ê°€ ë‚¼ ìˆ˜ ìžˆëŠ” ahì˜ ê¸¸ì´ê°€ ë˜ëŠ” ì˜ì‚¬ë¥¼ ì°¾ì•„ê°€ì•¼ í•¨)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.13(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class Ah {
 	private void solution() throws Exception {

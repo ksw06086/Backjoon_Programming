@@ -7,16 +7,16 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.18
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.18
- * ¸ñÀû : 11942¹ø - °í·Á´ë´Â »ç¶ûÀÔ´Ï´Ù.
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.18(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.18
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.18
+ * ëª©ì  : 11942ë²ˆ - ê³ ë ¤ëŒ€ëŠ” ì‚¬ë‘ì…ë‹ˆë‹¤.
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.18(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class K_LOVE {
 	private void solution() throws Exception {
-		System.out.println("°í·Á´ëÇĞ±³");
+		System.out.println("ê³ ë ¤ëŒ€í•™êµ");
 	}
 	
 	public static void main(String[] args) throws Exception {

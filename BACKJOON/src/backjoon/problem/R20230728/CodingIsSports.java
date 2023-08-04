@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö
- * @updatedAt ±è¼±¿ì, 2023.07.28(¹®Á¦Ç®ÀÌ)
- * {@summary} ÄÚµùÀº Ã¼À°°ú¸ñ ÀÔ´Ï´Ù.(¹ÙÀÌÆ® Å©±â¿¡ ¸Â´Â ÀÚ·áÇü Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¹ÙÀÌÆ® Å©±â ÀÔ·Â
+ * @category êµ¬í˜„
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.28(ë¬¸ì œí’€ì´)
+ * {@summary} ì½”ë”©ì€ ì²´ìœ¡ê³¼ëª© ì…ë‹ˆë‹¤.(ë°”ì´íŠ¸ í¬ê¸°ì— ë§ëŠ” ìë£Œí˜• ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë°”ì´íŠ¸ í¬ê¸° ì…ë ¥
  * https://www.acmicpc.net/problem/25314
  */
 public class CodingIsSports {

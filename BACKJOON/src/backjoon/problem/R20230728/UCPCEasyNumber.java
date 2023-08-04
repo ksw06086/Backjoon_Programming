@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.28(¹®Á¦Ç®ÀÌ)
- * {@summary} UCPC¿¡¼­ °¡Àå ½¬¿î ¹®Á¦ ¹øÈ£´Â?(A Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ³âµµÀÔ·Â
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.28(ë¬¸ì œí’€ì´)
+ * {@summary} UCPCì—ì„œ ê°€ì¥ ì‰¬ìš´ ë¬¸ì œ ë²ˆí˜¸ëŠ”?(A ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë…„ë„ì…ë ¥
  * https://www.acmicpc.net/problem/25311
  */
 public class UCPCEasyNumber {

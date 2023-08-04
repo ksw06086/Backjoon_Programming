@@ -7,12 +7,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.17
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.17
- * ¸ñÀû : 10872¹ø - ÆÑÅä¸®¾ó(ÆÑÅä¸®¾ó ±¸ÇÏ±â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.17(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.17
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.17
+ * ëª©ì  : 10872ë²ˆ - íŒ©í† ë¦¬ì–¼(íŒ©í† ë¦¬ì–¼ êµ¬í•˜ê¸°)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.17(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class Factorial {
 	private void solution() throws Exception {
@@ -23,7 +23,7 @@ public class Factorial {
 		System.out.println(sum);
 	}
 	
-	// ÆÑÅä¸®¾ó Àç±ÍÇÔ¼ö
+	// íŒ©í† ë¦¬ì–¼ ì¬ê·€í•¨ìˆ˜
 	public static int factorial(int N) {
 		if(N <= 1) return 1;
 		return N * factorial(N - 1);

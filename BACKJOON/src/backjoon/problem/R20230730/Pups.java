@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.30(¹®Á¦Ç®ÀÌ)
- * {@summary} Pups(°­¾ÆÁö À½½Ä °¡°Ý Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - row ¼ö, µÑÂ°ÁÙ~ - °­¾ÆÁö ¼ö, °­¾ÆÁö ÇÑ¸í´ç ¸Ô´Â ¾ç, °­¾ÆÁö ¾ç 1ÆÄ¿îµå´ç °¡°Ý
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.30(ë¬¸ì œí’€ì´)
+ * {@summary} Pups(ê°•ì•„ì§€ ìŒì‹ ê°€ê²© ì¶œë ¥)
+ * - ìž…ë ¥ : ì²«ì§¸ì¤„ - row ìˆ˜, ë‘˜ì§¸ì¤„~ - ê°•ì•„ì§€ ìˆ˜, ê°•ì•„ì§€ í•œëª…ë‹¹ ë¨¹ëŠ” ì–‘, ê°•ì•„ì§€ ì–‘ 1íŒŒìš´ë“œë‹¹ ê°€ê²©
  * https://www.acmicpc.net/problem/26575
  */
 public class Pups {

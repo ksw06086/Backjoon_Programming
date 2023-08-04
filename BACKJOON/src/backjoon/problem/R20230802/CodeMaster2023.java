@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö
- * @updatedAt ±è¼±¿ì, 2023.08.02(¹®Á¦Ç®ÀÌ)
- * {@summary} ÄÚµå¸¶½ºÅÍ 2023(¼±Ã¢ÇÏ¸é ÈÄÃ¢ Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¼±Ã¢
+ * @category êµ¬í˜„
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.02(ë¬¸ì œí’€ì´)
+ * {@summary} ì½”ë“œë§ˆìŠ¤í„° 2023(ì„ ì°½í•˜ë©´ í›„ì°½ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ì„ ì°½
  * https://www.acmicpc.net/problem/28235
  */
 public class CodeMaster2023 {

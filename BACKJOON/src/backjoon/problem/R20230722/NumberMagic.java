@@ -11,12 +11,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.22
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.22
- * ¸ñÀû : 18096¹ø - »ê¼ú¸¶¼ú(¸ðµç ¼ýÀÚ¸¦ ³Ö¾îµµ °á°ú´Â 1ÀÌ ³ª¿Â´Ù)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.22(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.22
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.22
+ * ëª©ì  : 18096ë²ˆ - ì‚°ìˆ ë§ˆìˆ (ëª¨ë“  ìˆ«ìžë¥¼ ë„£ì–´ë„ ê²°ê³¼ëŠ” 1ì´ ë‚˜ì˜¨ë‹¤)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.22(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class NumberMagic {
 	private void solution() throws Exception {

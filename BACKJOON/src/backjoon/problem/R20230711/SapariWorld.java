@@ -2,7 +2,7 @@ package backjoon.problem.R20230711;
 
 import java.util.Scanner;
 
-// »çÆÄ¸® ¿ùµå
+// ï¿½ï¿½ï¿½Ä¸ï¿½ ï¿½ï¿½ï¿½ï¿½
 public class SapariWorld {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.08.01(¹®Á¦Ç®ÀÌ)
- * {@summary} Same Numbers(10ÀÚ¸® 1ÀÇ ÀÚ¸® °°ÀºÁö)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - µÎÀÚ¸® ¼ö
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.01(ë¬¸ì œí’€ì´)
+ * {@summary} Same Numbers(10ìë¦¬ 1ì˜ ìë¦¬ ê°™ì€ì§€)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë‘ìë¦¬ ìˆ˜
  * https://www.acmicpc.net/problem/27324
  */
 public class SameNumbers {

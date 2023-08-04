@@ -11,12 +11,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.21
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.21
- * ¸ñÀû : 16394¹ø - È«ÀÍ´ëÇÐ±³(È«ÀÍ´ëÇÐ±³ °³±³ÁÖ³â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.21(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.21
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.21
+ * ëª©ì  : 16394ë²ˆ - í™ìµëŒ€í•™êµ(í™ìµëŒ€í•™êµ ê°œêµì£¼ë…„)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.21(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class HongDae {
 	private void solution() throws Exception {

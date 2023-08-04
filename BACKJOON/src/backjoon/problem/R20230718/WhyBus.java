@@ -7,16 +7,16 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.18
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.18
- * ¸ñÀû : 14645¹ø - ¿ÍÀÌ¹ö½º ºÎ¸ªºÎ¸ª
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.18(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.18
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.18
+ * ëª©ì  : 14645ë²ˆ - ì™€ì´ë²„ìŠ¤ ë¶€ë¦‰ë¶€ë¦‰
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.18(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class WhyBus {
 	private void solution() throws Exception {
-		System.out.println("ºñ¿ÍÀÌ");
+		System.out.println("ë¹„ì™€ì´");
 	}
 	
 	public static void main(String[] args) throws Exception {

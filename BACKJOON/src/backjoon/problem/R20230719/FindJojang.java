@@ -9,12 +9,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.19
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.19
- * ¸ñÀû : 15727¹ø - Á¶º°°úÁ¦¸¦ ÇÏ·Á´Âµ¥ Á¶ÀåÀÌ »ç¶óÁ³´Ù.(Á¶ÀåÀÇ Áý±îÁö ¸î¹ø¸¸¿¡ µµÂøÇÒÁö Ãâ·Â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.19(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.19
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.19
+ * ëª©ì  : 15727ë²ˆ - ì¡°ë³„ê³¼ì œë¥¼ í•˜ë ¤ëŠ”ë° ì¡°ìž¥ì´ ì‚¬ë¼ì¡Œë‹¤.(ì¡°ìž¥ì˜ ì§‘ê¹Œì§€ ëª‡ë²ˆë§Œì— ë„ì°©í• ì§€ ì¶œë ¥)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.19(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class FindJojang {
 	private void solution() throws Exception {

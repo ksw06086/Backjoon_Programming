@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.29(¹®Á¦Ç®ÀÌ)
- * {@summary} Correct(¹®Á¦ Á¦Ãâ±îÁö °É¸° ºĞ Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¹®Á¦ Á¦Ãâ ½Ã°£, ºĞ
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.29(ë¬¸ì œí’€ì´)
+ * {@summary} Correct(ë¬¸ì œ ì œì¶œê¹Œì§€ ê±¸ë¦° ë¶„ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë¬¸ì œ ì œì¶œ ì‹œê°„, ë¶„
  * https://www.acmicpc.net/problem/26307
  */
 public class Correct {

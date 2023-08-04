@@ -13,12 +13,12 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.25
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.25
- * ¸ñÀû : 23235¹ø - The Fastest Sorting Algorithm In The World(Á¤·Ä ¾Ë°í¸®Áò)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.25(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.25
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.25
+ * ëª©ì  : 23235ë²ˆ - The Fastest Sorting Algorithm In The World(ì •ë ¬ ì•Œê³ ë¦¬ì¦˜)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.25(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class SortingAlgorithm {
 	private void solution() throws Exception {

@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ¹®ÀÚ¿­
- * @updatedAt ±è¼±¿ì, 2023.08.02(¹®Á¦Ç®ÀÌ)
- * {@summary} Æ¯º°ÇÑ ÇĞ±³ ÀÌ¸§(ÇĞ±³ ¾àÄªÀ¸·Î Á¤½Ä¸íÄª Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÇĞ±³¾àÄª
+ * @category êµ¬í˜„, ë¬¸ìì—´
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.02(ë¬¸ì œí’€ì´)
+ * {@summary} íŠ¹ë³„í•œ í•™êµ ì´ë¦„(í•™êµ ì•½ì¹­ìœ¼ë¡œ ì •ì‹ëª…ì¹­ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - í•™êµì•½ì¹­
  * https://www.acmicpc.net/problem/27889
  */
 public class UniqueSchoolName {

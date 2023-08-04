@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ¹®ÀÚ¿­
- * @updatedAt ±è¼±¿ì, 2023.07.28(¹®Á¦Ç®ÀÌ)
- * {@summary} ¼ºÅÃÀÌÀÇ Àº¹ÐÇÑ ºñ¹Ð¹øÈ£(ºñ¹ø »ç¿ë °¡´É?ºÒ°¡´É?)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ½ÃµµÇÒ ºñ¹Ð¹øÈ£ °³¼ö, µÑÂ°ÁÙ~ - ºñ¹Ð¹øÈ£
+ * @category êµ¬í˜„, ë¬¸ìžì—´
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.28(ë¬¸ì œí’€ì´)
+ * {@summary} ì„±íƒì´ì˜ ì€ë°€í•œ ë¹„ë°€ë²ˆí˜¸(ë¹„ë²ˆ ì‚¬ìš© ê°€ëŠ¥?ë¶ˆê°€ëŠ¥?)
+ * - ìž…ë ¥ : ì²«ì§¸ì¤„ - ì‹œë„í•  ë¹„ë°€ë²ˆí˜¸ ê°œìˆ˜, ë‘˜ì§¸ì¤„~ - ë¹„ë°€ë²ˆí˜¸
  * https://www.acmicpc.net/problem/25372
  */
 public class SeongtaekPassword {

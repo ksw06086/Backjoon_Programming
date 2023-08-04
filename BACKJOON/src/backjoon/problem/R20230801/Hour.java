@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.08.01(¹®Á¦Ç®ÀÌ)
- * {@summary} Hour(¸îÀÏÀº ¸î½Ã°£ÀÎÁö)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ¸çÄ¥
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.01(ë¬¸ì œí’€ì´)
+ * {@summary} Hour(ëª‡ì¼ì€ ëª‡ì‹œê°„ì¸ì§€)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ë©°ì¹ 
  * https://www.acmicpc.net/problem/27327
  */
 public class Hour {

@@ -11,12 +11,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.25
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.25
- * ¸ñÀû : 21598¹ø - SciComLove(´õÇÏ±â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.25(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.25
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.25
+ * ëª©ì  : 21598ë²ˆ - SciComLove(ë”í•˜ê¸°)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.25(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class SciComLove {
 	private void solution() throws Exception {

@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ¼öÇĞ, ±¸Çö, »çÄ¢¿¬»ê
- * @updatedAt ±è¼±¿ì, 2023.08.01(¹®Á¦Ç®ÀÌ)
- * {@summary} Three-Way Comparison(A¿Í B ºñ±³)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - A, µÑÂ°ÁÙ - B
+ * @category ìˆ˜í•™, êµ¬í˜„, ì‚¬ì¹™ì—°ì‚°
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.01(ë¬¸ì œí’€ì´)
+ * {@summary} Three-Way Comparison(Aì™€ B ë¹„êµ)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - A, ë‘˜ì§¸ì¤„ - B
  * https://www.acmicpc.net/problem/27328
  */
 public class ThreeWayComparison {

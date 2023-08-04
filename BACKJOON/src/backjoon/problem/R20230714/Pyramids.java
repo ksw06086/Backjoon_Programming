@@ -5,12 +5,12 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.14
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.14
- * ¸ñÀû : 5341¹ø - ÇÇ¶ó¹Ìµå(ÇÇ¶ó¹Ìµå ¿Ï¼º ÇÒ ºí·° ÃÑ °³¼ö ±¸ÇÏ±â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.14(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.14
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.14
+ * ëª©ì  : 5341ë²ˆ - í”¼ë¼ë¯¸ë“œ(í”¼ë¼ë¯¸ë“œ ì™„ì„± í•  ë¸”ëŸ­ ì´ ê°œìˆ˜ êµ¬í•˜ê¸°)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.14(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class Pyramids {
 	private void solution() throws Exception {

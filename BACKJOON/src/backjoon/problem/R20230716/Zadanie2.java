@@ -6,12 +6,12 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.16
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.16
- * ¸ñÀû : 8871¹ø - Zadanie2(n¹øÀÇ ¶ó¿îµå, 1¹øÀÇ ½ÃÇè°æ±â Ã¤Á¡ È½¼ö Ãâ·Â)
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.16(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ìž‘ì„±ìž : ê¹€ì„ ìš°
+ * ìµœì´ˆ ìž‘ì„±ì¼ : 2023.07.16
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.16
+ * ëª©ì  : 8871ë²ˆ - Zadanie2(në²ˆì˜ ë¼ìš´ë“œ, 1ë²ˆì˜ ì‹œí—˜ê²½ê¸° ì±„ì  íšŸìˆ˜ ì¶œë ¥)
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.16(ë¬¸ì œí’€ì´)
+ * ì €ìž‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class Zadanie2 {
 	private void solution() throws Exception {

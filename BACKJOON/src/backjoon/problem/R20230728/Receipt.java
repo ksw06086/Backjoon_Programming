@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.28(¹®Á¦Ç®ÀÌ)
- * {@summary} ¿µ¼öÁõ(¿µ¼öÁõ°ú ºñ±³ÇØ¼­ ÃÑ ±Ý¾×ÀÌ ¸Â³ª È®ÀÎ)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÃÑ ±Ý¾×, µÑÂ°ÁÙ - ¹°Ç°¸ñ·Ï¼ö, ¼ÂÂ°ÁÙ~ - ¿ø°¡, °³¼ö
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.28(ë¬¸ì œí’€ì´)
+ * {@summary} ì˜ìˆ˜ì¦(ì˜ìˆ˜ì¦ê³¼ ë¹„êµí•´ì„œ ì´ ê¸ˆì•¡ì´ ë§žë‚˜ í™•ì¸)
+ * - ìž…ë ¥ : ì²«ì§¸ì¤„ - ì´ ê¸ˆì•¡, ë‘˜ì§¸ì¤„ - ë¬¼í’ˆëª©ë¡ìˆ˜, ì…‹ì§¸ì¤„~ - ì›ê°€, ê°œìˆ˜
  * https://www.acmicpc.net/problem/25304
  */
 public class Receipt {

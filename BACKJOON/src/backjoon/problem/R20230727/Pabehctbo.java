@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.27(¹®Á¦Ç®ÀÌ)
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.27(ë¬¸ì œí’€ì´)
  * {@summary} PABEHCTBO
- * - Ã¹Â°ÁÙ : ax = bc Áß a,b,c ¼ø¼­´ë·Î ÀÔ·Â
+ * - ì²«ì§¸ì¤„ : ax = bc ì¤‘ a,b,c ìˆœì„œëŒ€ë¡œ ì…ë ¥
  * https://www.acmicpc.net/problem/24309
  */
 public class Pabehctbo {

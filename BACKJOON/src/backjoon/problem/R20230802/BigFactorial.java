@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ¼öÇĞ, »çÄ¢¿¬»ê, ÀÓÀÇ Á¤¹Ğµµ / Å« ¼ö ¿¬»ê
- * @updatedAt ±è¼±¿ì, 2023.08.02(¹®Á¦Ç®ÀÌ)
- * {@summary} ÆÑÅä¸®¾ó3(N ÆÑÅä¸®¾ó Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - N
+ * @category ìˆ˜í•™, ì‚¬ì¹™ì—°ì‚°, ì„ì˜ ì •ë°€ë„ / í° ìˆ˜ ì—°ì‚°
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.02(ë¬¸ì œí’€ì´)
+ * {@summary} íŒ©í† ë¦¬ì–¼3(N íŒ©í† ë¦¬ì–¼ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - N
  * https://www.acmicpc.net/problem/27434
  */
 public class BigFactorial {
@@ -34,7 +34,7 @@ public class BigFactorial {
 	public static BigInteger factorial(int a, int n) {
 		BigInteger ret=BigInteger.valueOf(a);
 
-		// O(n)À¸·Î ÇÏ¸é ½Ã°£ÃÊ°ú°¡ ³ª´Ï±î, O(NlogN)À¸·Î ³ª´²¼­ ÇÔ
+		// O(n)ìœ¼ë¡œ í•˜ë©´ ì‹œê°„ì´ˆê³¼ê°€ ë‚˜ë‹ˆê¹Œ, O(NlogN)ìœ¼ë¡œ ë‚˜ëˆ ì„œ í•¨
         if(a<n){
             int b=(a+n)/2;
             ret=factorial(a,b).multiply(factorial(b+1,n));

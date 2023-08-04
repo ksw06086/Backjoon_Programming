@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.29(¹®Á¦Ç®ÀÌ)
- * {@summary} WARBOY(WARBOY Á¦Ç°ÀÇ ¼º´É)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - °æÀï»çÁ¦Ç°°¡°Ý, °æÀï»çÁ¦Ç°¼º´É, WARBOYÁ¦Ç°°¡°Ý
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.29(ë¬¸ì œí’€ì´)
+ * {@summary} WARBOY(WARBOY ì œí’ˆì˜ ì„±ëŠ¥)
+ * - ìž…ë ¥ : ì²«ì§¸ì¤„ - ê²½ìŸì‚¬ì œí’ˆê°€ê²©, ê²½ìŸì‚¬ì œí’ˆì„±ëŠ¥, WARBOYì œí’ˆê°€ê²©
  * https://www.acmicpc.net/problem/26082
  */
 public class WARBOY {

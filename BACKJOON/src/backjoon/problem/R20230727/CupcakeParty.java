@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.27(¹®Á¦Ç®ÀÌ)
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.27(ë¬¸ì œí’€ì´)
  * {@summary} Cupcake Party
- * - ÀÔ·Â : Ã¹Â°ÁÙ - 8°³Â¥¸® »óÀÚ °³¼ö, µÑÂ°ÁÙ - 3°³Â¥¸® »óÀÚ °³¼ö
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - 8ê°œì§œë¦¬ ìƒì ê°œìˆ˜, ë‘˜ì§¸ì¤„ - 3ê°œì§œë¦¬ ìƒì ê°œìˆ˜
  * https://www.acmicpc.net/problem/24568
  */
 public class CupcakeParty {

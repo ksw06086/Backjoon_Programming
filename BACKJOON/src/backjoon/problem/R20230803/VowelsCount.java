@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ¹®ÀÚ¿­
- * @updatedAt ±è¼±¿ì, 2023.08.03(¹®Á¦Ç®ÀÌ)
- * {@summary} ¸ğÀ½ÀÇ °³¼ö(a,i,u,e,o °³¼ö Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ~ - ¹®ÀÚ¿­, ¸¶Áö¸·ÁÙ - #
+ * @category êµ¬í˜„, ë¬¸ìì—´
+ * @updatedAt ê¹€ì„ ìš°, 2023.08.03(ë¬¸ì œí’€ì´)
+ * {@summary} ëª¨ìŒì˜ ê°œìˆ˜(a,i,u,e,o ê°œìˆ˜ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„~ - ë¬¸ìì—´, ë§ˆì§€ë§‰ì¤„ - #
  * https://www.acmicpc.net/problem/1264
  */
 public class VowelsCount {

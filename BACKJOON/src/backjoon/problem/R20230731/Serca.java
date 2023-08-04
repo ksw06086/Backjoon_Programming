@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.31(¹®Á¦Ç®ÀÌ)
- * {@summary} Serca(ÇÏÆ® Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÇÏÆ® Ãâ·Â °³¼ö
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.31(ë¬¸ì œí’€ì´)
+ * {@summary} Serca(í•˜íŠ¸ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - í•˜íŠ¸ ì¶œë ¥ ê°œìˆ˜
  * https://www.acmicpc.net/problem/26766
  */
 public class Serca {

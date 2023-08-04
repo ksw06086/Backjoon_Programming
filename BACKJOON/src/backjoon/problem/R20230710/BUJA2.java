@@ -3,24 +3,24 @@ package backjoon.problem.R20230710;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-// ¹éÁØ¿¡¼± Ã¤Á¡½Ã Á¦ÃâÇÑ ÄÚµå¸¦ Main.java·Î °¡Á¤ÇÏ¿© ¹Ş´Â´Ù.
+// ë°±ì¤€ì—ì„  ì±„ì ì‹œ ì œì¶œí•œ ì½”ë“œë¥¼ Main.javaë¡œ ê°€ì •í•˜ì—¬ ë°›ëŠ”ë‹¤.
 public class BUJA2 {
 
 	public static void main(String[] args) {
-		// ÀÔ·Â¹Ş´Â ´Ù¸¥ ¹æ¹ı
+		// ì…ë ¥ë°›ëŠ” ë‹¤ë¥¸ ë°©ë²•
 		// BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	    // StringTokenizer st = new StringTokenizer(br.readLine());
 	    // BigInteger n = new BigInteger(st.nextToken());
 		Scanner sc = new Scanner(System.in);
-		// Ã¹Â° ÁÙ¿¡´Â ÃÖ¹éÁØ Á¶±³°¡ °¡Áø µ· n°ú µ·À» ¹ŞÀ¸·¯ ¿Â »ı¸íÃ¼ÀÇ ¼ö mÀÌ ÁÖ¾îÁø´Ù. (1 ¡Â m ¡Â n ¡Â 101000, m°ú nÀº 10Áø¼ö Á¤¼ö)
-		// int ÀÚ·áÇüÀ¸·Î´Â 10ÀÇ 1000½ÂÀ» Ç¥ÇöÇÒ ¼ö ¾øÀ½ => BIGINTEGER¸¦ »ç¿ëÇØ¾ßÇÔ
-		// BigIntegerÀÇ ¹üÀ§´Â ¹®ÀÚ¿­ ÇüÅÂ·Î ÀÌ·ç¾îÁ® ÀÖ¾î ¹«ÇÑÀÌ´Ù.
-		/* < BigInteger Å¬·¡½º »çÁ÷¿¬»ê ¸Ş¼­µå >
-		 * µ¡¼À Bignumber1.add(Bignumber2) 
-		 * »¬¼À Bignumber1.subtract(Bignumber2) 
-		 * °ö¼À Bignumber1.multiply(Bignumber2) 
-		 * ³ª´°¼À Bignumber1.divide(Bignumber2) 
-		 * ³ª¸ÓÁö Bignumber1.remainder(Bignumber2)
+		// ì²«ì§¸ ì¤„ì—ëŠ” ìµœë°±ì¤€ ì¡°êµê°€ ê°€ì§„ ëˆ nê³¼ ëˆì„ ë°›ìœ¼ëŸ¬ ì˜¨ ìƒëª…ì²´ì˜ ìˆ˜ mì´ ì£¼ì–´ì§„ë‹¤. (1 â‰¤ m â‰¤ n â‰¤ 101000, mê³¼ nì€ 10ì§„ìˆ˜ ì •ìˆ˜)
+		// int ìë£Œí˜•ìœ¼ë¡œëŠ” 10ì˜ 1000ìŠ¹ì„ í‘œí˜„í•  ìˆ˜ ì—†ìŒ => BIGINTEGERë¥¼ ì‚¬ìš©í•´ì•¼í•¨
+		// BigIntegerì˜ ë²”ìœ„ëŠ” ë¬¸ìì—´ í˜•íƒœë¡œ ì´ë£¨ì–´ì ¸ ìˆì–´ ë¬´í•œì´ë‹¤.
+		/* < BigInteger í´ë˜ìŠ¤ ì‚¬ì§ì—°ì‚° ë©”ì„œë“œ >
+		 * ë§ì…ˆ Bignumber1.add(Bignumber2) 
+		 * ëº„ì…ˆ Bignumber1.subtract(Bignumber2) 
+		 * ê³±ì…ˆ Bignumber1.multiply(Bignumber2) 
+		 * ë‚˜ëˆ—ì…ˆ Bignumber1.divide(Bignumber2) 
+		 * ë‚˜ë¨¸ì§€ Bignumber1.remainder(Bignumber2)
 		 */
 		BigInteger n = sc.nextBigInteger();
 		BigInteger m = sc.nextBigInteger();

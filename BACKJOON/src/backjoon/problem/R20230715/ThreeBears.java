@@ -6,19 +6,19 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.15
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.15
- * ¸ñÀû : 6840¹ø - Who is in the middle?
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.15(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.15
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.15
+ * ëª©ì  : 6840ë²ˆ - Who is in the middle?
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.15(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class ThreeBears {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		int[] bowls = new int[3];
-		// ±×¸© 3°³ °ª ÀÔ·Â
+		// ê·¸ë¦‡ 3ê°œ ê°’ ì…ë ¥
 		for(int i = 0; i < 3; i++) {
 			bowls[i] = Integer.parseInt(br.readLine());
 		}

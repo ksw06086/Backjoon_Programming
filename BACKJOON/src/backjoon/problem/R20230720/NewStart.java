@@ -9,18 +9,18 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ÃÖÃÊ ÀÛ¼ºÀÚ : ±è¼±¿ì
- * ÃÖÃÊ ÀÛ¼ºÀÏ : 2023.07.20
- * ÃÖÃÊ º¯°æÀÏ : 2023.07.20
- * ¸ñÀû : 15962¹ø - »õ·Î¿î ½ÃÀÛ
- * °³Á¤ ÀÌ·Â : ±è¼±¿ì, 2023.07.20(¹®Á¦Ç®ÀÌ)
- * ÀúÀÛ±Ç : ±è¼±¿ì
+ * ìµœì´ˆ ì‘ì„±ì : ê¹€ì„ ìš°
+ * ìµœì´ˆ ì‘ì„±ì¼ : 2023.07.20
+ * ìµœì´ˆ ë³€ê²½ì¼ : 2023.07.20
+ * ëª©ì  : 15962ë²ˆ - ìƒˆë¡œìš´ ì‹œì‘
+ * ê°œì • ì´ë ¥ : ê¹€ì„ ìš°, 2023.07.20(ë¬¸ì œí’€ì´)
+ * ì €ì‘ê¶Œ : ê¹€ì„ ìš°
  */
 public class NewStart {
 	private void solution() throws Exception {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
-		bw.write("ÆÄÀÌÆÃ!!");
+		bw.write("íŒŒì´íŒ…!!");
 		bw.flush();
 		bw.close();
 	}

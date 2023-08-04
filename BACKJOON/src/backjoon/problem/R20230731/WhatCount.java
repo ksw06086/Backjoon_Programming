@@ -12,10 +12,10 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category ±¸Çö, ½Ã¹Ä·¹ÀÌ¼Ç
- * @updatedAt ±è¼±¿ì, 2023.07.31(¹®Á¦Ç®ÀÌ)
- * {@summary} ¸î°³°í?(ÃÊ¹ä ¹ä ¾Ë °³¼ö Ãâ·Â)
- * - ÀÔ·Â : Ã¹Â°ÁÙ - ÃÊ¹ä ¸ÔÀ»½Ã°£, ¼ú À¯¹« 
+ * @category êµ¬í˜„, ì‹œë®¬ë ˆì´ì…˜
+ * @updatedAt ê¹€ì„ ìš°, 2023.07.31(ë¬¸ì œí’€ì´)
+ * {@summary} ëª‡ê°œê³ ?(ì´ˆë°¥ ë°¥ ì•Œ ê°œìˆ˜ ì¶œë ¥)
+ * - ì…ë ¥ : ì²«ì§¸ì¤„ - ì´ˆë°¥ ë¨¹ì„ì‹œê°„, ìˆ  ìœ ë¬´ 
  * https://www.acmicpc.net/problem/27294
  */
 public class WhatCount {
