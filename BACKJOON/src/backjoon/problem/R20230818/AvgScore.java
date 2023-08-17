@@ -1,4 +1,4 @@
-package backjoon.problem.R20230817;
+package backjoon.problem.R20230818;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,31 +12,34 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category 수학, 구현, 기하학
+ * @category 수학, 사칙연산
  * @updatedAt 김선우, 2023.08.18(문제풀이)
- * {@summary} Hello Judge(테스트 마다 출력)
- * - 입력 : 첫째줄 - 테스트 케이스
- * https://www.acmicpc.net/problem/9772
+ * {@summary} 평균 점수(5명의 평균 점수 구하기)
+ * - 입력 : 첫째줄~다섯째줄 - 점수
+ * https://www.acmicpc.net/problem/10039
  */
-public class HelloJudge {
+public class AvgScore {
 	private void solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		StringBuilder sb = new StringBuilder();
-		int N = Integer.valueOf(br.readLine());
 		
-		for(int i = 1; i <= N; i++) {
-			sb.append("Hello World, Judge " + i + "!").append("\n");
+		int N = 5;
+		int score = 0;
+		int totalScore = 0;
+		for(int i = 0; i<N; i++) {
+			score = Integer.valueOf(br.readLine());
+			totalScore += score<40?40:score;
 		}
 		
-		bw.write(sb + "");
+		bw.write(totalScore/N + "");
 		bw.flush();
 		br.close();
 		bw.close();
 	}
 	
 	public static void main(String[] args) throws Exception {
-		new HelloJudge().solution();
+		new AvgScore().solution();
 	}
 	
 }
