@@ -12,11 +12,11 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category 구현
- * @updatedAt 김선우, 2023.08.21(문제풀이)
- * {@summary} 10부제(자동차 일의 자리와 날짜 일의 자리 같은거 찾기)
- * - 입력 : 첫째줄 - 날짜 일의 자리 / 둘째줄 = 자동차 5대 번호 일의자리
- * https://www.acmicpc.net/problem/10797
+ * @category 수학, 문자열, 사칙연산
+ * @updatedAt 김선우, 2023.08.22(문제풀이)
+ * {@summary} Equality(하나의 식이 맞는 식인지 확인)
+ * - 입력 : 첫째줄 - 식
+ * https://www.acmicpc.net/problem/13985
  */
 public class Equality {
 	private void solution() throws Exception {
