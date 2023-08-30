@@ -15,8 +15,8 @@ import java.util.StringTokenizer;
  * @author swkim
  * @category 수학, 사칙연산, 구현
  * @updatedAt 김선우, 2023.08.29(문제풀이)
- * {@summary} 치킨 두 마리()
- * - 입력 : 1째줄~5째줄 - 식품온도, 원하는온도, 0도 전 1도 올리는 시간, 해동시간, 1도 데우는 시간
+ * {@summary} 치킨 두 마리(...)(치킨 두 마리 사고 난 금액)
+ * - 입력 : 1째줄 - A 께좌, B 계좌 / 2째줄 - 치킨 1마리 가격
  * https://www.acmicpc.net/problem/14489
  */
 public class TwoChickens {
