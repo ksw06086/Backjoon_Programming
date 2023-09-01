@@ -36,7 +36,7 @@ public class EverySecondCounts_LocalTime {
 		
 		int result = 0;
 		if(startSecond < endSecond) { result = endSecond - startSecond; }
-		else { result = endSecond - startSecond + 86400; }
+		else { result = endSecond - startSecolnd + 86400; }
 		
 		bw.write(result + "");
 		bw.flush();
