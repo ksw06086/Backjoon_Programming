@@ -32,8 +32,8 @@ public class AgeCalc {
 		int nowYear = Integer.valueOf(now.nextToken());
 		int nowday= Integer.valueOf(now.nextToken())*100 + Integer.valueOf(now.nextToken());
 		
-		if(myYear > nowYear) sb.append("0\n");
-		else if(myYear < nowYear && myday <= nowday) sb.append(nowYear-myYear).append("\n");
+		if(myYear >= nowYear) sb.append("0\n");
+		else if(myday <= nowday) sb.append(nowYear-myYear).append("\n");
 		else sb.append(nowYear-myYear-1).append("\n");
 		sb.append(nowYear-myYear+1).append("\n");
 		sb.append(nowYear-myYear);
