@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 
 /**
  * @author swkim
- * @category 수학, 기하학
+ * @category 수학, 구현, 사칙연산
  * @updatedAt 김선우, 2023.09.07(문제풀이)
  * {@summary} Winning Score(누가 이겼을까?)
  * - 입력 : 1째줄~3째줄 - Apple의 3점, 2점, 1점 횟수 / 4째줄~6째줄 - Banana의 3점, 2점, 1점 횟수   
