@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
 /**
  * @author swkim
  * @category 구현
- * @updatedAt 김선우, 2023.09.10(문제풀이)
+ * @updatedAt 김선우, 2023.09.11(문제풀이)
  * {@summary} Counting Clauses(문제 케이스가 8개가 넘냐?)
  * - 입력 : 1째줄 - n m / 2째줄~n째줄 - a1, a2, a3
  * https://www.acmicpc.net/problem/17903
